@@ -1,6 +1,6 @@
-// Solved 2020-11-20 18:24
+// Solved 2020-11-20 22:23
 // Runtime: 12 ms (67.74%)
-// Memory Usage: 7 MB (83.87%)
+// Memory Usage: 6.9 MB (83.87%)
 
 #define MAX 96
 
@@ -56,7 +56,6 @@ int countUnique(emailhash *x, int n) {
 
 int numUniqueEmails(char **words, int wordsSize) {
     emailhash x[wordsSize];
-    char l[MAX], d[MAX];
     resolve(words, x, wordsSize);
     return countUnique(x, wordsSize);
 }
