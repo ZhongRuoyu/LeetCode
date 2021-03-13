@@ -1,4 +1,4 @@
-// Solved 2021-03-13 00;03
+// Solved 2021-03-13 00:03
 // Runtime: 28 ms (84.52%)
 // Memory Usage: 24.7 MB (96.07%)
 
