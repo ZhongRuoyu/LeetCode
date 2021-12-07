@@ -1,6 +1,6 @@
 // Solved 2021-12-06
-// Runtime: 0 ms (100.00%)
-// Memory Usage: 5.9 MB (100.00%)
+// Runtime: 9 ms (100.00%)
+// Memory Usage: 38.4 MB (74.17%)
 
 import java.util.concurrent.Semaphore;
 
