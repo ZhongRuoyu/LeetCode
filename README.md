@@ -2,7 +2,7 @@
 
 ## Licence
 
-Copyright (c) 2020 - 2021 Zhong Ruoyu. Licensed under the [MIT License](LICENCE).
+Copyright (c) 2020 - 2022 Zhong Ruoyu. Licensed under the [MIT License](LICENCE).
 
 ## Table of Contents
 
