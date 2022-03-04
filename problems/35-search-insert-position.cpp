@@ -23,7 +23,7 @@ class Solution {
 
 /*
 
-The previous submission, which was not O(n log n):
+The previous submission, which was not O(log n):
 
 // Solved 2021-03-29 08:19
 // Runtime: 0 ms (100.00%)
