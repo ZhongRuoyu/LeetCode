@@ -10,7 +10,7 @@ class Solution {
         long long res = 1;
         // Formula:
         //   C((m - 1) + (n - 1), (m - 1))
-        // = ((m - 1) * (n - 1))! / ((m - 1)! * (n - 1)!)
+        // = ((m - 1) + (n - 1))! / ((m - 1)! * (n - 1)!)
         // To prevent overflow:
         // - long long is used.
         // - Multiplication and division are performed simultaneously.
