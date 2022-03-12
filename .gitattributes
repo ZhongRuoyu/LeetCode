@@ -1,0 +1,2 @@
+# Include SQL scripts in Linguist stats
+*.sql linguist-detectable
