@@ -1,8 +1,4 @@
-# ZhongRuoyu's LeetCode Solutions
-
-## Licence
-
-Copyright (c) 2020 - 2022 Zhong Ruoyu. Licensed under the [MIT License](LICENCE).
+# My LeetCode Solutions
 
 ## Table of Contents
 
@@ -614,3 +610,7 @@ Copyright (c) 2020 - 2022 Zhong Ruoyu. Licensed under the [MIT License](LICENCE)
 | [2446. Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/)                                                           | Easy       | Array; String                                                                                             | [Rust](problems/2446-determine-if-two-events-have-conflict.rs)                                                |
 | [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                                                                                       | Easy       | Math                                                                                                      | [Rust](problems/2469-convert-the-temperature.rs)                                                              |
 | [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/)                                                                                                   | Easy       |                                                                                                           | [Rust](problems/2490-circular-sentence.rs)                                                                    |
+
+## License
+
+All solutions are licensed under the [MIT License](LICENCE).
